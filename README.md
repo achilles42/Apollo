@@ -25,18 +25,13 @@ Libraries & Tools Used
 4. sklearn
 
 ## Dev Setup
-
-Env
-1. Jupyter
-   1. Install [anaconda ](https://www.anaconda.com/products/distribution)
-
+1. Jupyter - Install [anaconda ](https://www.anaconda.com/products/distribution)
 2. VS Code
 3. Install Dot extention in VS code
 4. Dataset - The CSV file used in this tutorial: https://bit.ly/3muqqta
 
-
 ### Visualization of Decision Tree
-![asdf](docs/images/music-recommender.png)
+![diagram](docs/images/music-recommender.png)
 
 ## Contribution
 1. Fork it
